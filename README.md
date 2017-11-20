@@ -1,4 +1,4 @@
-# Practiocal iOS
+# Practical iOS
 Pratical problems asked on coding interviews for a position of iOS developer
 
 * Merge two Range objects
