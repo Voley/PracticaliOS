@@ -6,4 +6,6 @@ Pratical problems asked on coding interviews for a position of iOS developer
 * Write network function to download and display image
 * Write closure API around NotificationCenter
 * Implement a cancellable dispatch_after
+* How to swizzle methods in Objective-C
+* What methods are called if an object doesn't implement certain method
 
